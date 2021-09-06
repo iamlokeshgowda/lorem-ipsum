@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f1f5f8;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.lorem-main{
+  margin: 30px 60px;
+  padding: 30px 60px;
+}
+
+.heading{
+  font-size: 2rem;
+  font-family: revert;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.lorem-form label{
+  color: #063251;
+  font-size: 20px;
+}
+
+.lorem-form input{
+  color: #063251;
+  font-size: 20px;
+  border: none;
+  width: 3rem;
+  margin: 0px .5rem;
+  border-radius: 3px;
+  padding: 6px;
+}
+
+.btn{
+  background: #49a6e9;
+  border: none;
+  padding: 6px;
+  font-size: 20px;
+  color: #000;
+  border-radius: 3px;
+}
+
+.btn:hover{
+  color: #0c4d7b;
+  background: #81c0ec;
+}
+
+.lorem-text{
+  color: #395b75;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  line-height: 1.5;
+}
